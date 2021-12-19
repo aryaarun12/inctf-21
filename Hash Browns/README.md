@@ -31,6 +31,7 @@ for i in range(len(r)):
         happy.write(chr(l.index(z)))
 ```
 Extracted PNG:
+
 ![](https://github.com/aryaarun12/inctf-quals-21/blob/main/Hash%20Browns/Assets/org%20(1).png?raw=true)
 ## Flag 
 
