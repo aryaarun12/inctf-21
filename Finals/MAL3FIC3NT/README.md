@@ -6,7 +6,7 @@ My friend is stuck somewhere. He is trying to communicate something with me. Can
 
 ## Challenge file
 
-[Primary link](https://github.com/aryaarun12/inctf-quals-21/blob/main/Hash%20Browns/Assets/hash-browns.pcap)
+[Primary link]([https://github.com/aryaarun12/inctf-quals-21/blob/main/Hash%20Browns/Assets/hash-browns.pcap](https://github.com/aryaarun12/inctf-21/blob/main/Finals/MAL3FIC3NT/Admin/mal.pcap))
 
 ## Write up
 
